@@ -1,2 +1,3 @@
 # ph10-dev
-Development and Scripts involving the Polar H10 Heart Rate Monitor
+Scripts involving the Polar H10 Heart Rate Monitor
+by Morris Lee
